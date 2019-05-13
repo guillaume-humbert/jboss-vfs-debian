@@ -1,3 +1,15 @@
+jboss-vfs (3.2.14.Final-4) bionic; urgency=medium
+
+  * Fixed control file.
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Mon, 13 May 2019 23:21:36 +0800
+
+jboss-vfs (3.2.14.Final-3) bionic; urgency=medium
+
+  * Fixed dependencies scope via patch.
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Mon, 13 May 2019 23:09:42 +0800
+
 jboss-vfs (3.2.14.Final-2) bionic; urgency=medium
 
   * Fixed dependencies scope.

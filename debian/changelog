@@ -1,3 +1,9 @@
+jboss-vfs (3.2.14.Final-2) bionic; urgency=medium
+
+  * Fixed dependencies scope.
+
+ -- Guillaume J Humbert <guillaume.j.humbert@pm.me>  Mon, 13 May 2019 21:56:47 +0800
+
 jboss-vfs (3.2.14.Final-1) bionic; urgency=medium
 
   * Initial release.

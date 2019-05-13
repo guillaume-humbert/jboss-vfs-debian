@@ -1,0 +1,3 @@
+version=3
+opts="repack,compression=xz" \
+https://github.com/jbossas/jboss-vfs/tags .*/(?:.*?)([\d\.]+\.Final)\.tar\.gz
